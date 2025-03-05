@@ -7,7 +7,7 @@
 
 ## Викладання
 
-- [Шаблон сторінки семінару] https://ukrainian-carpentries.github.io/workshop-template/
+- [Шаблон сторінки семінару](https://ukrainian-carpentries.github.io/workshop-template/)
 
 ## Глосарій
 
@@ -15,4 +15,4 @@
   
 ---------
 
-[*Редагувати на GitHub*](https://github.com/ukrainian-carpentries/ukrainian-carpentries.github.io/edit/main/README.md))
+[*Редагувати на GitHub*](https://github.com/ukrainian-carpentries/ukrainian-carpentries.github.io/edit/main/README.md)
