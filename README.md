@@ -1,8 +1,13 @@
+[*English version*](https://ukrainian-carpentries.github.io/en/)
 ---------
 
 ## Переклади уроків
 
 - [Контроль версій за допомогою Git](https://ukrainian-carpentries.github.io/git-novice/)
+
+## Викладання
+
+- [Шаблон сторінки семінару] https://ukrainian-carpentries.github.io/workshop-template/
 
 ## Глосарій
 
@@ -10,10 +15,4 @@
   
 ---------
 
-## Translated lessons
-
-- [Version Control with Git](https://ukrainian-carpentries.github.io/git-novice/)
-
-## Glosario
-
-- [A multilingual glossary for computing and data science terms](https://glosario.carpentries.org/uk/)
+[*Редагувати на GitHub*](https://github.com/ukrainian-carpentries/ukrainian-carpentries.github.io/edit/main/README.md))
