@@ -11,6 +11,7 @@ The Carpentries на українську мову наведені нижче.
 
 Ми зустрічаємось щомісяця у четверту пʼятницю о 16:00 за Київським часом.
 Подальшу інформацію про наші зустрічі можна знайти [тут](https://hackmd.io/drNoAPc5QpqH4nWm71YJkg?view).
+Дивіться також звіт про нашу діяльність станом на травень 2024 р. на сайті [The Carpentries](https://carpentries.org/blog/2024/05/software-carpentries-translation-efforts-in-ukrainian/).
 
 ## Переклади уроків
 
