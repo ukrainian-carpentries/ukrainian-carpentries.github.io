@@ -15,7 +15,7 @@ The Carpentries на українську мову наведені нижче.
 
 ## Переклади уроків
 
-- [Контроль версій за допомогою Git](https://ukrainian-carpentries.github.io/git-novice/)
+- [Контроль версій за допомогою Git](https://ukrainian-carpentries.github.io/git-novice/) (Перекладачі: Олександр Коновалов, Софія Матіос, Олександр Мірошкін, Вероніка Шевченко) 
 
 ## Викладання
 
