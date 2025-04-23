@@ -27,4 +27,4 @@ See also the May 2024 report on our activities [on The Carpentries website](http
 
 ---------
 
-[* Edit on GitHub*](https://github.com/ukrainian-carpentries/ukrainian-carpentries.github.io/edit/main/en/README.md)
+[*Edit on GitHub*](https://github.com/ukrainian-carpentries/ukrainian-carpentries.github.io/edit/main/en/README.md)
