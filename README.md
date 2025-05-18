@@ -19,6 +19,10 @@ The Carpentries на українську мову наведені нижче.
 
 ## Викладання
 
+- Незабаром: [**Лекція "Ефективне співробітництво за допомогою Git та GitHub"**](https://fitm.kubg.edu.ua/pro-fakultet/news/events/eventdetail/258/76/lektsiia-efektyvne-spivrobitnytstvo-za-dopomohoiu-git-ta-github.html): Факультет інформаційних технологій та математики Київського столичного університету імені Бориса Грінченка, 19 травня 2025 р. Лектор Олександр Коновалов (University of St Andrews)
+
+- [Попередні навчальні заходи із використанням наших матеріалів](https://ukrainian-carpentries.github.io/trainings)
+
 - [Шаблон сторінки семінару](https://ukrainian-carpentries.github.io/workshop-template/)
 
 ## Глосарій
