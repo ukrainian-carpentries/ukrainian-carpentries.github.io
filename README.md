@@ -23,7 +23,7 @@ The Carpentries на українську мову наведені нижче.
 
 - [Попередні навчальні заходи із використанням наших матеріалів](https://ukrainian-carpentries.github.io/trainings)
 
-- [Шаблон сторінки семінару](https://ukrainian-carpentries.github.io/workshop-template/)
+- [Шаблон для створення сторінки семінару](https://ukrainian-carpentries.github.io/workshop-template/) (містить також [інструкції щодо інсталяції необхідного програмного забезпечення](https://ukrainian-carpentries.github.io/workshop-template/#setup))
 
 ## Глосарій
 
