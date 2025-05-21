@@ -13,7 +13,7 @@
 
 - [**Управління версіями за допомогою Git**](https://moodle.zp.edu.ua/enrol/index.php?id=7110): навчальний курс для аспірантів кафедри системного аналізу та обчислювальної математики, викладач Анна Бакурова (Національний університет "Запорізька політехніка").
 
-- [**Лекція "Ефективне співробітництво за допомогою Git та GitHub"**](https://fitm.kubg.edu.ua/pro-fakultet/news/events/eventdetail/258/76/lektsiia-efektyvne-spivrobitnytstvo-za-dopomohoiu-git-ta-github.html): Факультет інформаційних технологій та математики Київського столичного університету імені Бориса Грінченка, 19 травня 2025 р. Лектор Олександр Коновалов (University of St Andrews)
+- [**Лекція "Ефективне співробітництво за допомогою Git та GitHub"**](https://fitm.kubg.edu.ua/pro-fakultet/news/events/eventdetail/258/76/lektsiia-efektyvne-spivrobitnytstvo-za-dopomohoiu-git-ta-github.html): Факультет інформаційних технологій та математики Київського столичного університету імені Бориса Грінченка, 19 травня 2025 р. Лектор Олександр Коновалов (University of St Andrews) [[*Новини на сайті факультету*](https://fitm.kubg.edu.ua/pro-fakultet/news/podiji/2350-git-github.html)]
   
 ---------
 
