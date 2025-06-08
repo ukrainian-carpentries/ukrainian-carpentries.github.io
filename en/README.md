@@ -15,7 +15,7 @@ See also the May 2024 report on our activities [on The Carpentries website](http
 
 ## Translated lessons
 
-- [Version Control with Git](https://ukrainian-carpentries.github.io/git-novice/)  (Translators: Olexandr Konovalov, Sofiia Matios, Oleksandr Miroshkin, Veronika Shevchenko) 
+- [Version Control with Git](https://ukrainian-carpentries.github.io/git-novice/)  (Translators: [Olexandr Konovalov](https://olexandr-konovalov.github.io/), Sofiia Matios, Oleksandr Miroshkin, Veronika Shevchenko) 
 
 ## Teaching
 
