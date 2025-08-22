@@ -45,7 +45,7 @@ The Carpentries provides translation infrastructure on the [Crowdin](https://cro
   
 ## Glosario
 
-[Glosario](https://glosario.carpentries.org/) is a multilingual glossary for computing and data science terms. Its Ukrainian section is [located here](https://glosario.carpentries.org/uk/). As in August 2025, it contains 630 English terms, of which 123 have Ukrainian translation. This makes Ukrainian the 4th most represented language in Glosario, after Amharic (288) and Spanish (146). New translation can be added to [this GitHub repository](https://github.com/carpentries/glosario). See the [README.md file](https://github.com/carpentries/glosario/blob/main/README.md) for further details.
+[Glosario](https://glosario.carpentries.org/) is a multilingual glossary for computing and data science terms. Its Ukrainian section is [located here](https://glosario.carpentries.org/uk/). As in August 2025, it contains 630 English terms, of which 123 have Ukrainian translation. This makes Ukrainian the 4th most represented language in Glosario, after Amharic (288) and Spanish (146). New translations can be added to [this GitHub repository](https://github.com/carpentries/glosario). See the [README.md file](https://github.com/carpentries/glosario/blob/main/README.md) for further details.
 
 
 ## How you can contribute
