@@ -16,11 +16,17 @@
 
 ### Повністю перекладені уроки
 
-- [Контроль версій за допомогою Git](https://ukrainian-carpentries.github.io/git-novice/) (Перекладачі: Олександр Коновалов, Софія Матіос, Олександр Мірошкін, Володимир Харченко, Вероніка Шевченко)
+- **Контроль версій за допомогою Git.** Перекладачі: Олександр Коновалов, Софія Матіос, Олександр Мірошкін, Володимир Харченко, Вероніка Шевченко.
+[[українська версія](https://ukrainian-carpentries.github.io/git-novice/)]
+[[повідомити про помилку](https://github.com/ukrainian-carpentries/git-novice/issues/new)]
+[[англійська версія](https://swcarpentry.github.io/git-novice/)]
 
 ### Деякі з частково перекладених уроків
 
-- [Командний рядок Unix](https://ukrainian-carpentries.github.io/shell-novice/) (Перекладачі: Олександр Коновалов, Софія Матіос, Олександр Мірошкін, Володимир Харченко, Вероніка Шевченко)
+- **Командний рядок Unix.** Перекладачі: Олександр Коновалов, Софія Матіос, Олександр Мірошкін, Володимир Харченко, Вероніка Шевченко.
+[[українська версія](https://ukrainian-carpentries.github.io/shell-novice/)]
+[[повідомити про помилку](https://github.com/ukrainian-carpentries/shell-novice/issues/new)]
+[[англійська версія](https://swcarpentry.github.io/shell-novice/)]
 
 ### Як виконуються переклади
 
