@@ -39,6 +39,8 @@ The Carpentries provides translation infrastructure on the [Crowdin](https://cro
 
 ## Teaching
 
+- ["Version control with Git"](https://www.eventbrite.co.uk/e/git-tickets-1733696796789) at [Research Software Camp: Careers and Skills in Research Software](https://www.software.ac.uk/Events/research-software-camp-careers-and-skills-research-software), 17 November 2025. [[**Registration**](https://www.eventbrite.co.uk/e/git-tickets-1733696796789)]
+
 - [Previous training events using our materials](https://ukrainian-carpentries.github.io/trainings)
 
 - [The Carpentries Workshop Template](https://ukrainian-carpentries.github.io/workshop-template/) (including [installation instructions](https://ukrainian-carpentries.github.io/workshop-template/#setup))
