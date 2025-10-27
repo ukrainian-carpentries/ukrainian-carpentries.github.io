@@ -15,7 +15,8 @@
 
 - [**Лекція "Ефективне співробітництво за допомогою Git та GitHub"**](https://fitm.kubg.edu.ua/pro-fakultet/news/events/eventdetail/258/76/lektsiia-efektyvne-spivrobitnytstvo-za-dopomohoiu-git-ta-github.html): Факультет інформаційних технологій та математики Київського столичного університету імені Бориса Грінченка, 19 травня 2025 р. Лектор Олександр Коновалов (University of St Andrews) [[*Новини на сайті факультету*](https://fitm.kubg.edu.ua/pro-fakultet/news/podiji/2350-git-github.html)]
 
-- **Контроль версій за допомогою Git**: Національний університет "Острозька академія", 9 жовтня 2025 р. Інструктор Олександр Коновалов (University of St Andrews), помічник Юрій Клебан (Національний університет "Острозька академія").  
+- **Контроль версій за допомогою Git**: Національний університет "Острозька академія", 9 жовтня 2025 р. Інструктор Олександр Коновалов (University of St Andrews), помічник Юрій Клебан (Національний університет "Острозька академія").
+
 ---------
 
 [*Редагувати на GitHub*](https://github.com/ukrainian-carpentries/ukrainian-carpentries.github.io/edit/main/trainings.md)
