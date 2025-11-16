@@ -68,7 +68,7 @@ The Carpentries надає інфраструктуру для переклад�
 
 ## Контакти
 
-- Координатор: [obk1@st-andrews.ac.uk](mailto:obk1@st-andrews.ac.uk) ([Олександр Коновалов](https://olexandr-konovalov.github.io/))
+- Координатор: [Олександр Коновалов](https://olexandr-konovalov.github.io/) ([obk1@st-andrews.ac.uk](mailto:obk1@st-andrews.ac.uk))
 - Slack: [The Carpentries Slack Workspace](https://carpentries.org/about-us/contact/), канал "#local-ukrainian"
 - GitHub: [https://github.com/ukrainian-carpentries](https://github.com/ukrainian-carpentries)
   
