@@ -28,7 +28,12 @@
 [[повідомити про помилку](https://github.com/ukrainian-carpentries/shell-novice/issues/new)]
 [[англійська версія](https://swcarpentry.github.io/shell-novice/)]
 
-- окрім того, ми працюємо над перекладами уроків [**Plotting and Programming in Python**](https://swcarpentry.github.io/python-novice-gapminder/) та [**R for Social Scientists**](https://datacarpentry.github.io/r-socialsci/), а також [уроку з системи компʼютерної алгебри **GAP**](https://carpentries-incubator.github.io/gap-lesson/).
+- **Побудова графіків і програмування на Python** (Епізоди 1-6). Перекладачі: Дмитро Карвацький, Олександр Коновалов, Софія Матіос, Олександр Мірошкін, Марина Новожилова, Володимир Харченко, Ольга Чуб, Вероніка Шевченко.
+[[українська версія](https://ukrainian-carpentries.github.io/python-novice-gapminder/)]
+[[повідомити про помилку](https://github.com/ukrainian-carpentries/python-novice-gapminder/issues/new)]
+[[англійська версія](https://swcarpentry.github.io/python-novice-gapminder/)]
+
+- окрім того, ми працюємо над перекладами уроку [**R for Social Scientists**](https://datacarpentry.github.io/r-socialsci/), а також [уроку з системи компʼютерної алгебри **GAP**](https://carpentries-incubator.github.io/gap-lesson/).
 
 
 ### Як виконуються переклади
