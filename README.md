@@ -28,7 +28,7 @@
 [[повідомити про помилку](https://github.com/ukrainian-carpentries/shell-novice/issues/new)]
 [[англійська версія](https://swcarpentry.github.io/shell-novice/)]
 
-- окрім того, ми працюємо над перекладами уроків [**Plotting and Programming in Python**](https://swcarpentry.github.io/python-novice-gapminder/) та [**Introduction to R for Geospatial Data**](https://datacarpentry.github.io/r-intro-geospatial/), а також [уроку з системи компʼютерної алгебри **GAP**](https://carpentries-incubator.github.io/gap-lesson/).
+- окрім того, ми працюємо над перекладами уроків [**Plotting and Programming in Python**](https://swcarpentry.github.io/python-novice-gapminder/) та [**R for Social Scientists**](https://datacarpentry.github.io/r-socialsci/), а також [уроку з системи компʼютерної алгебри **GAP**](https://carpentries-incubator.github.io/gap-lesson/).
 
 
 ### Як виконуються переклади
