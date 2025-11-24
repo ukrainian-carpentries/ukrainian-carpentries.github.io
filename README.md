@@ -42,8 +42,6 @@ The Carpentries надає інфраструктуру для переклад�
 
 ## Викладання
 
-- ["Контроль версій за допомогою Git"](https://www.eventbrite.co.uk/e/git-tickets-1733696796789) за програмою [Research Software Camp: Careers and Skills in Research Software](https://www.software.ac.uk/Events/research-software-camp-careers-and-skills-research-software), 17 листопада 2025 р. [[**Зареєструватися**](https://www.eventbrite.co.uk/e/git-tickets-1733696796789)]
-
 - [Попередні навчальні заходи із використанням наших матеріалів](https://ukrainian-carpentries.github.io/trainings)
 
 - [Шаблон для створення сторінки семінару](https://ukrainian-carpentries.github.io/workshop-template/) (містить також [інструкції щодо інсталяції необхідного програмного забезпечення](https://ukrainian-carpentries.github.io/workshop-template/#setup))

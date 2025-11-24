@@ -17,6 +17,8 @@
 
 - **Контроль версій за допомогою Git**: [Data Analytics Bootcamp for developers 2025](https://kleban.page/bc-2025/), Національний університет "Острозька академія", 9 жовтня 2025 р. Інструктор Олександр Коновалов (University of St Andrews), помічник Юрій Клебан (Національний університет "Острозька академія"). [[*Запис на YouTube*](https://www.youtube.com/watch?v=KKdjnyBBMqI)] 
 
+- [**Контроль версій за допомогою Git**](https://www.eventbrite.co.uk/e/git-tickets-1733696796789): [Research Software Camp: Careers and Skills in Research Software](https://www.software.ac.uk/Events/research-software-camp-careers-and-skills-research-software), 17 листопада 2025 р. Інструктор Олександр Коновалов (University of St Andrews), помічник Єгор Бояр (University of St Andrews). [[*Відгук учасників з ХНУМГ ім. О.М. Бекетова*](https://knit.kname.edu.ua/8-novosty/302-vikladachi-kafedri-komp-yuternikh-nauk-ta-informatsijnikh-tekhnologij-vzyali-uchast-u-seminari-kontrol-versij-za-dopomogoyu-git-za-programoyu-research-software-camp-careers-and-skills-in-research-software)].
+
 ---------
 
 [*Редагувати на GitHub*](https://github.com/ukrainian-carpentries/ukrainian-carpentries.github.io/edit/main/trainings.md)
