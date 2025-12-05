@@ -24,13 +24,19 @@ Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr 
 
 ### Work in progress
 
-- **Командний рядок Unix (The Unix Shell).**
+- **Командний рядок Unix (The Unix Shell)** (All episodes are already translated). 
 Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr Miroshkin, Veronika Shevchenko.
 [[Ukrainian version](https://ukrainian-carpentries.github.io/shell-novice/)]
 [[Issue tracker](https://github.com/ukrainian-carpentries/shell-novice/issues/)]
 [[English version](https://swcarpentry.github.io/shell-novice/)]
 
-- besides that, we are working on translating [**Plotting and Programming in Python**](https://swcarpentry.github.io/python-novice-gapminder/) and [**Introduction to R for Geospatial Data**](https://datacarpentry.github.io/r-intro-geospatial/) lessons, as well as the [Carpentries Incubator lesson on the computational algebra system **GAP**](https://carpentries-incubator.github.io/gap-lesson/).
+- **Побудова графіків і програмування на Python (Plotting and Programming in Python)** (Episodes 1-6).
+Translators: Svitlana Braichenko, Olga Chub, Dmytro Karvatskyi, Danylo Kiz, Olexandr Konovalov, Volodymyr Kharchenko, Sofiia Matios, Oleksandr Miroshkin, Maryna Novozhylova, Veronika Shevchenko.
+[[Ukrainian version](https://ukrainian-carpentries.github.io/python-novice-gapminder/)]
+[[Issue tracker](https://github.com/ukrainian-carpentries/python-novice-gapminder/issues/new)]
+[[[English version](https://swcarpentry.github.io/python-novice-gapminder/)]
+
+- besides that, we are working on translating [**R for Social Scientists**](https://datacarpentry.github.io/r-socialsci/) and the [Carpentries Incubator lesson on the computational algebra system **GAP**](https://carpentries-incubator.github.io/gap-lesson/).
 
 
 ###  How it works
@@ -39,8 +45,6 @@ The Carpentries provides translation infrastructure on the [Crowdin](https://cro
 
 ## Teaching
 
-- ["Version control with Git"](https://www.eventbrite.co.uk/e/git-tickets-1733696796789) at [Research Software Camp: Careers and Skills in Research Software](https://www.software.ac.uk/Events/research-software-camp-careers-and-skills-research-software), 17 November 2025. [[**Registration**](https://www.eventbrite.co.uk/e/git-tickets-1733696796789)]
-
 - [Previous training events using our materials](https://ukrainian-carpentries.github.io/trainings)
 
 - [The Carpentries Workshop Template](https://ukrainian-carpentries.github.io/workshop-template/) (including [installation instructions](https://ukrainian-carpentries.github.io/workshop-template/#setup))
@@ -48,7 +52,6 @@ The Carpentries provides translation infrastructure on the [Crowdin](https://cro
 ## Glosario
 
 [Glosario](https://glosario.carpentries.org/) is a multilingual glossary for computing and data science terms. Its Ukrainian section is [located here](https://glosario.carpentries.org/uk/). As in August 2025, it contains 630 English terms, of which 123 have Ukrainian translation. This makes Ukrainian the 4th most represented language in Glosario, after Amharic (288) and Spanish (146). New translations can be added to [this GitHub repository](https://github.com/carpentries/glosario). See the [README.md file](https://github.com/carpentries/glosario/blob/main/README.md) for further details.
-
 
 ## How you can contribute
 
@@ -62,6 +65,7 @@ There are many opportunities to contribute to our project. You are welcome to jo
 - help to share information about this project, and join the global Carpentries community
 
 See also the [translated CONTRIBUTING.md file](https://github.com/ukrainian-carpentries/git-novice/blob/l10n_main/locale/uk/CONTRIBUTING.md) from the "Version control with Git" lesson.
+Additionally, for those who are starting to work with [Crowdin](https://crowdin.com/) there is a [guidance here](https://github.com/ukrainian-carpentries/translation-guide/blob/main/UkrainianCarpentriesTranslationGuide.pdf).
 
 ## Contacts
 
