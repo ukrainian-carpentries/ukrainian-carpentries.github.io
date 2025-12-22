@@ -45,6 +45,8 @@ The Carpentries provides translation infrastructure on the [Crowdin](https://cro
 
 ## Teaching
 
+- First time in Ukraine: [The Carpentries workshop](https://ukrainian-carpentries.github.io/2026-01-20-dnipro-online/) (Unix shell, Git and R) as a part of the Winter School in System Analysis and AI in Dnipro Polytechnic (online, January 2026)
+
 - [Previous training events using our materials](https://ukrainian-carpentries.github.io/trainings)
 
 - [The Carpentries Workshop Template](https://ukrainian-carpentries.github.io/workshop-template/) (including [installation instructions](https://ukrainian-carpentries.github.io/workshop-template/#setup))
