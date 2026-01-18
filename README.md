@@ -36,7 +36,7 @@
 [[повідомити про помилку](https://github.com/ukrainian-carpentries/python-novice-gapminder/issues/new)]
 [[англійська версія](https://swcarpentry.github.io/python-novice-gapminder/)]
 
-- окрім того, ми працюємо над перекладами уроку [**R for Social Scientists**](https://datacarpentry.github.io/r-socialsci/), а також [уроку з системи компʼютерної алгебри **GAP**](https://carpentries-incubator.github.io/gap-lesson/).
+- окрім того, ми працюємо над перекладами уроку [**R for Social Scientists**](https://datacarpentry.github.io/r-socialsci/), а також [уроку з системи компʼютерної алгебри **GAP**](https://carpentries-incubator.github.io/gap-lesson/). Робоча версія українського перекладу уроку **R для соціологів** [знаходиться тут](https://ukrainian-carpentries.github.io/r-socialsci/).
 
 
 ### Як виконуються переклади
