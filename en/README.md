@@ -36,7 +36,13 @@ Translators: Svitlana Braichenko, Olga Chub, Dmytro Karvatskyi, Danylo Kiz, Olex
 [[Issue tracker](https://github.com/ukrainian-carpentries/python-novice-gapminder/issues/new)]
 [[[English version](https://swcarpentry.github.io/python-novice-gapminder/)]
 
-- besides that, we are working on translating [**R for Social Scientists**](https://datacarpentry.github.io/r-socialsci/) and the [Carpentries Incubator lesson on the computational algebra system **GAP**](https://carpentries-incubator.github.io/gap-lesson/).
+- **R for Social Scientists** (59% approved translations).
+Translators: Yurii Kleban, Olexandr Konovalov, Daria Stehnii, Bohdana Strelyuk.
+[[Ukrainian version](https://ukrainian-carpentries.github.io/r-socialsci/)]
+[[Issue tracker](https://github.com/ukrainian-carpentries/r-socialsci/issues/new)]
+[[[English version](https://datacarpentry.github.io/r-socialsci)]
+
+- besides that, we are working on translating the [Carpentries Incubator lesson on the computational algebra system **GAP**](https://carpentries-incubator.github.io/gap-lesson/).
 
 
 ###  How it works
@@ -45,7 +51,7 @@ The Carpentries provides translation infrastructure on the [Crowdin](https://cro
 
 ## Teaching
 
-- First time in Ukraine: [The Carpentries workshop](https://ukrainian-carpentries.github.io/2026-01-20-dnipro-online/) (Unix shell, Git and R) as a part of the Winter School in System Analysis and AI in Dnipro Polytechnic (online, January 2026)
+- First time in Ukraine: [The Carpentries workshop](https://ukrainian-carpentries.github.io/2026-01-20-dnipro-online/) (Unix shell, Git and R) as a part of the Winter School in System Analysis and AI in Dnipro Polytechnic (online, 20-21 January 2026)
 
 - [Previous training events using our materials](https://ukrainian-carpentries.github.io/trainings)
 
