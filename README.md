@@ -30,7 +30,7 @@
 [[повідомити про помилку](https://github.com/ukrainian-carpentries/shell-novice/issues/new)]
 [[англійська версія](https://swcarpentry.github.io/shell-novice/)]
 
-- **Побудова графіків і програмування на Python** (Епізоди 1-6). 
+- **Побудова графіків і програмування на Python** (Епізоди 1-8 повністю перекладені; в цілому 65% перекладу затверджено).
 Перекладачі: Світлана Брайченко, Дмитро Карвацький, Данило Кіз, Олександр Коновалов, Софія Матіос, Олександр Мірошкін, Марина Новожилова, Володимир Харченко, Ольга Чуб, Вероніка Шевченко.
 [[українська версія](https://ukrainian-carpentries.github.io/python-novice-gapminder/)]
 [[повідомити про помилку](https://github.com/ukrainian-carpentries/python-novice-gapminder/issues/new)]
