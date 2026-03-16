@@ -53,6 +53,10 @@ The Carpentries provides translation infrastructure on the [Crowdin](https://cro
 
 - First time in Ukraine: [The Carpentries workshop](https://ukrainian-carpentries.github.io/2026-01-20-dnipro-online/) (Unix shell, Git and R) as a part of the Winter School in System Analysis and AI in Dnipro Polytechnic (online, 20-21 January 2026)
 
+    - *YouTube recordings*: Day 1 (Unix shell, version control with Git): [[Part_1](https://www.youtube.com/watch?v=8P3yRKr9BFA)], [[Part_2](https://www.youtube.com/watch?v=mFdP751ndX0)], [[Part_3](https://www.youtube.com/watch?v=VFluq0EX4oM)], [[Part_4](https://www.youtube.com/watch?v=7KS6FggbIqI)]
+    - *YouTube recordings*: Day 2 (Programming in R): [[Part_1](https://www.youtube.com/watch?v=gxHc9MqWAjU)], [[Part_2](https://www.youtube.com/watch?v=cZhsa35ojBM)], [[Part_3](https://www.youtube.com/watch?v=v9bb2-YJIYI)], [[Part_4](https://www.youtube.com/watch?v=pz3RSXDUIh0)]
+    - Lead instructor report: ["Resilient Carpentries: running a workshop in times of the war"](https://olexandr-konovalov.github.io/posts/2026/02/24/resilient-carpentries/)
+
 - [Previous training events using our materials](https://ukrainian-carpentries.github.io/trainings)
 
 - [The Carpentries Workshop Template](https://ukrainian-carpentries.github.io/workshop-template/) (including [installation instructions](https://ukrainian-carpentries.github.io/workshop-template/#setup))
