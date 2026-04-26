@@ -10,7 +10,12 @@ This is the page of the Ukrainian Carpentries Community.
 We are meeting every 4th Friday of the month at 16:00 Ukrainian time.
 Further information about our meetings could be found [here](https://hackmd.io/drNoAPc5QpqH4nWm71YJkg?view).
 
-See also the May 2024 report on our activities [on The Carpentries website](https://carpentries.org/blog/2024/05/software-carpentries-translation-efforts-in-ukrainian/), the presentation ["Software Carpentry for Ukraine"](https://pure.st-andrews.ac.uk/ws/portalfiles/portal/317409931/SoftwareCarpentryForUkraine_Konovalov.pdf) at the [UK-Ukraine Networking and Research Twinning Showcase 2025](https://www.digital-ukraine.co.uk/) in March 2025, and, most recently, [Subcommunity Spotlight: Ukraine](https://carpentries.org/blog/2025/12/ukrainian-spotlight/) on The Carpentries website.
+Please also see:
+
+- the May 2024 report on our activities [on The Carpentries website](https://carpentries.org/blog/2024/05/software-carpentries-translation-efforts-in-ukrainian/)
+- our presentation ["Software Carpentry for Ukraine"](https://pure.st-andrews.ac.uk/ws/portalfiles/portal/317409931/SoftwareCarpentryForUkraine_Konovalov.pdf) at the [UK-Ukraine Networking and Research Twinning Showcase 2025](https://www.digital-ukraine.co.uk/) in March 2025
+- [Subcommunity Spotlight: Ukraine](https://carpentries.org/blog/2025/12/ukrainian-spotlight/) on The Carpentries website in December 2025
+- our [presentation](https://pure.st-andrews.ac.uk/ws/portalfiles/portal/334687699/Ukrainian_Carpentries_Community_Liverpool_2026.pdf) and [poster](https://pure.st-andrews.ac.uk/ws/portalfiles/portal/334687394/Ukrainian_Carpentries_Poster_Liverpool_2026.pdf) at the [UK-Ukraine Networking and Research Twinning Showcase 2026](https://www.digital-ukraine.co.uk/) in March 2026
 
 ## Translated lessons
 
