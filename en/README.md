@@ -39,19 +39,19 @@ Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr 
 Translators: Svitlana Braichenko, Olga Chub, Dmytro Karvatskyi, Danylo Kiz, Olexandr Konovalov, Volodymyr Kharchenko, Sofiia Matios, Oleksandr Miroshkin, Maryna Novozhylova, Veronika Shevchenko.
 [[Ukrainian version](https://ukrainian-carpentries.github.io/python-novice-gapminder/)]
 [[Issue tracker](https://github.com/ukrainian-carpentries/python-novice-gapminder/issues/new)]
-[[[English version](https://swcarpentry.github.io/python-novice-gapminder/)]
+[[English version](https://swcarpentry.github.io/python-novice-gapminder/)]
 
 - **R for Social Scientists** (59% approved translations).
 Translators: Yurii Kleban, Olexandr Konovalov, Daria Stehnii, Bohdana Strelyuk.
 [[Ukrainian version](https://ukrainian-carpentries.github.io/r-socialsci/)]
 [[Issue tracker](https://github.com/ukrainian-carpentries/r-socialsci/issues/new)]
-[[[English version](https://datacarpentry.github.io/r-socialsci)]
+[[English version](https://datacarpentry.github.io/r-socialsci)]
 
-- **Carpentries Incubator lesson "Programming with GAP** (8% approved translations).
+- **Carpentries Incubator lesson "Programming with GAP"** (8% approved translations).
 Translators: Olexandr Konovalov, Oleksandr Miroshkin, Iryna Raievska, Maryna Raievska.
 [[Ukrainian version](https://ukrainian-carpentries.github.io/gap-lesson/)]
 [[Issue tracker](https://github.com/ukrainian-carpentries/gap-lesson/issues/new)]
-[[[English version](https://carpentries-incubator.github.io/gap-lesson/)]
+[[English version](https://carpentries-incubator.github.io/gap-lesson/)]
 
 ###  How it works
 
