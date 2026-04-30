@@ -19,7 +19,7 @@ Please also see:
 
 ## Translated lessons
 
-### Fully translated lessons
+### Fully translated and approved lessons
 
 - **Контроль версій за допомогою Git (Version control with Git).**
 Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr Miroshkin, Veronika Shevchenko.
@@ -29,13 +29,13 @@ Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr 
 
 ### Work in progress
 
-- **Командний рядок Unix (The Unix Shell)** (All episodes are already translated). 
+- **Командний рядок Unix (The Unix Shell)** (All episodes are already translated and approved).
 Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr Miroshkin, Veronika Shevchenko.
 [[Ukrainian version](https://ukrainian-carpentries.github.io/shell-novice/)]
 [[Issue tracker](https://github.com/ukrainian-carpentries/shell-novice/issues/)]
 [[English version](https://swcarpentry.github.io/shell-novice/)]
 
-- **Побудова графіків і програмування на Python (Plotting and Programming in Python)** (Episodes 1-8 fully translated; overall 65% approved translations).
+- **Побудова графіків і програмування на Python (Plotting and Programming in Python)** (Episodes 1-8 fully translated and approved; overall 65% approved translations).
 Translators: Svitlana Braichenko, Olga Chub, Dmytro Karvatskyi, Danylo Kiz, Olexandr Konovalov, Volodymyr Kharchenko, Sofiia Matios, Oleksandr Miroshkin, Maryna Novozhylova, Veronika Shevchenko.
 [[Ukrainian version](https://ukrainian-carpentries.github.io/python-novice-gapminder/)]
 [[Issue tracker](https://github.com/ukrainian-carpentries/python-novice-gapminder/issues/new)]
@@ -47,8 +47,11 @@ Translators: Yurii Kleban, Olexandr Konovalov, Daria Stehnii, Bohdana Strelyuk.
 [[Issue tracker](https://github.com/ukrainian-carpentries/r-socialsci/issues/new)]
 [[[English version](https://datacarpentry.github.io/r-socialsci)]
 
-- besides that, we are working on translating the [Carpentries Incubator lesson on the computational algebra system **GAP**](https://carpentries-incubator.github.io/gap-lesson/).
-
+- **Carpentries Incubator lesson "Programming with GAP** (8% approved translations).
+Translators: Olexandr Konovalov, Oleksandr Miroshkin, Iryna Raievska, Maryna Raievska.
+[[Ukrainian version](https://ukrainian-carpentries.github.io/gap-lesson/)]
+[[Issue tracker](https://github.com/ukrainian-carpentries/gap-lesson/issues/new)]
+[[[English version](https://carpentries-incubator.github.io/gap-lesson/)]
 
 ###  How it works
 
