@@ -47,7 +47,7 @@ Translators: Yurii Kleban, Olexandr Konovalov, Daria Stehnii, Bohdana Strelyuk.
 [[Issue tracker](https://github.com/ukrainian-carpentries/r-socialsci/issues/new)]
 [[English version](https://datacarpentry.github.io/r-socialsci)]
 
-- **Carpentries Incubator lesson "Programming with GAP"** (33% approved translations).
+- **Carpentries Incubator lesson "Programming with GAP"** (54% approved translations).
 Translators: Olexandr Konovalov, Oleksandr Miroshkin, Iryna Raievska, Maryna Raievska.
 [[Ukrainian version](https://ukrainian-carpentries.github.io/gap-lesson/)]
 [[Issue tracker](https://github.com/ukrainian-carpentries/gap-lesson/issues/new)]

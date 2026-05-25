@@ -47,7 +47,7 @@
 [[повідомити про помилку](https://github.com/ukrainian-carpentries/r-socialsci/issues/new)]
 [[англійська версія](https://datacarpentry.github.io/r-socialsci)]
 
-- **Програмування у системі компʼютерної алгебри GAP** (33% перекладу затверджено).
+- **Програмування у системі компʼютерної алгебри GAP** (54% перекладу затверджено).
 Перекладачі: Олександр Коновалов, Олександр Мірошкін, Ірина Раєвська, Марина Раєвська.
 [[українська версія](https://ukrainian-carpentries.github.io/gap-lesson/)]
 [[повідомити про помилку](https://github.com/ukrainian-carpentries/gap-lesson/issues/new)]
