@@ -42,7 +42,7 @@ Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr 
 [[English version](https://swcarpentry.github.io/shell-novice/)]
 
 - **Побудова графіків і програмування на Python (Plotting and Programming in Python)** (Episodes 1-13 fully translated and approved; overall 71% approved translations).
-Translators: Svitlana Braichenko, Olga Chub, Dmytro Karvatskyi, Danylo Kiz, Olexandr Konovalov, Volodymyr Kharchenko, Sofiia Matios, Oleksandr Miroshkin, Maryna Novozhylova, Veronika Shevchenko, Mariia Zaremba.
+Translators: Svitlana Braichenko, Olga Chub, Dmytro Karvatskyi, Danylo Kiz, Olexandr Konovalov, Volodymyr Kharchenko, Sofiia Matios, Oleksandr Miroshkin, Maryna Novozhylova, Veronika Shevchenko, Mariya Spatar, Mariia Zaremba.
 [[Ukrainian version](https://ukrainian-carpentries.github.io/python-novice-gapminder/)]
 [[Issue tracker](https://github.com/ukrainian-carpentries/python-novice-gapminder/issues/new)]
 [[English version](https://swcarpentry.github.io/python-novice-gapminder/)]
