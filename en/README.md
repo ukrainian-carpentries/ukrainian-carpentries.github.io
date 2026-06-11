@@ -27,6 +27,12 @@ Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr 
 [[Issue tracker](https://github.com/ukrainian-carpentries/git-novice/issues/)]
 [[English version](https://swcarpentry.github.io/git-novice/)]
 
+- **Програмування у системі компʼютерної алгебри GAP (Carpentries Incubator lesson "Programming with GAP").**
+Translators: Olexandr Konovalov, Oleksandr Miroshkin, Iryna Raievska, Maryna Raievska.
+[[Ukrainian version](https://ukrainian-carpentries.github.io/gap-lesson/)]
+[[Issue tracker](https://github.com/ukrainian-carpentries/gap-lesson/issues/new)]
+[[English version](https://carpentries-incubator.github.io/gap-lesson/)]
+
 ### Work in progress
 
 - **Командний рядок Unix (The Unix Shell)** (All episodes are already translated and approved; overall 87% approved translations).
@@ -35,19 +41,13 @@ Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr 
 [[Issue tracker](https://github.com/ukrainian-carpentries/shell-novice/issues/)]
 [[English version](https://swcarpentry.github.io/shell-novice/)]
 
-- **Carpentries Incubator lesson "Programming with GAP"** (All episodes are already translated and approved; overall 78% approved translations).
-Translators: Olexandr Konovalov, Oleksandr Miroshkin, Iryna Raievska, Maryna Raievska.
-[[Ukrainian version](https://ukrainian-carpentries.github.io/gap-lesson/)]
-[[Issue tracker](https://github.com/ukrainian-carpentries/gap-lesson/issues/new)]
-[[English version](https://carpentries-incubator.github.io/gap-lesson/)]
-
 - **Побудова графіків і програмування на Python (Plotting and Programming in Python)** (Episodes 1-13 fully translated and approved; overall 71% approved translations).
 Translators: Svitlana Braichenko, Olga Chub, Dmytro Karvatskyi, Danylo Kiz, Olexandr Konovalov, Volodymyr Kharchenko, Sofiia Matios, Oleksandr Miroshkin, Maryna Novozhylova, Veronika Shevchenko, Mariia Zaremba.
 [[Ukrainian version](https://ukrainian-carpentries.github.io/python-novice-gapminder/)]
 [[Issue tracker](https://github.com/ukrainian-carpentries/python-novice-gapminder/issues/new)]
 [[English version](https://swcarpentry.github.io/python-novice-gapminder/)]
 
-- **R for Social Scientists** (59% approved translations).
+- **R для соціологів (R for Social Scientists)** (59% approved translations).
 Translators: Yurii Kleban, Olexandr Konovalov, Daria Stehnii, Bohdana Strelyuk.
 [[Ukrainian version](https://ukrainian-carpentries.github.io/r-socialsci/)]
 [[Issue tracker](https://github.com/ukrainian-carpentries/r-socialsci/issues/new)]

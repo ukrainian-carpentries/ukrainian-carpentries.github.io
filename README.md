@@ -27,6 +27,12 @@
 [[повідомити про помилку](https://github.com/ukrainian-carpentries/git-novice/issues/new)]
 [[англійська версія](https://swcarpentry.github.io/git-novice/)]
 
+- **Програмування у системі компʼютерної алгебри GAP.**
+Перекладачі: Олександр Коновалов, Олександр Мірошкін, Ірина Раєвська, Марина Раєвська.
+[[українська версія](https://ukrainian-carpentries.github.io/gap-lesson/)]
+[[повідомити про помилку](https://github.com/ukrainian-carpentries/gap-lesson/issues/new)]
+[[англійська версія](https://carpentries-incubator.github.io/gap-lesson/)]
+
 ### Частково перекладені уроки
 
 - **Командний рядок Unix** (Усі епізоди вже повністю перекладені та затверджені; в цілому 87% перекладу затверджено).
@@ -34,12 +40,6 @@
 [[українська версія](https://ukrainian-carpentries.github.io/shell-novice/)]
 [[повідомити про помилку](https://github.com/ukrainian-carpentries/shell-novice/issues/new)]
 [[англійська версія](https://swcarpentry.github.io/shell-novice/)]
-
-- **Програмування у системі компʼютерної алгебри GAP** (Усі епізоди вже повністю перекладені та затверджені; в цілому 78% перекладу затверджено).
-Перекладачі: Олександр Коновалов, Олександр Мірошкін, Ірина Раєвська, Марина Раєвська.
-[[українська версія](https://ukrainian-carpentries.github.io/gap-lesson/)]
-[[повідомити про помилку](https://github.com/ukrainian-carpentries/gap-lesson/issues/new)]
-[[англійська версія](https://carpentries-incubator.github.io/gap-lesson/)]
 
 - **Побудова графіків і програмування на Python** (Епізоди 1-13 повністю перекладені та затверджені; в цілому 71% перекладу затверджено).
 Перекладачі: Світлана Брайченко, Марія Заремба, Дмитро Карвацький, Данило Кіз, Олександр Коновалов, Софія Матіос, Олександр Мірошкін, Марина Новожилова, Володимир Харченко, Ольга Чуб, Вероніка Шевченко.
