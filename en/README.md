@@ -41,7 +41,7 @@ Translators: Olexandr Konovalov, Oleksandr Miroshkin, Iryna Raievska, Maryna Rai
 [[Issue tracker](https://github.com/ukrainian-carpentries/gap-lesson/issues/new)]
 [[English version](https://carpentries-incubator.github.io/gap-lesson/)]
 
-- **Побудова графіків і програмування на Python (Plotting and Programming in Python)** (Episodes 1-11 fully translated and approved; overall 66% approved translations).
+- **Побудова графіків і програмування на Python (Plotting and Programming in Python)** (Episodes 1-13 fully translated and approved; overall 71% approved translations).
 Translators: Svitlana Braichenko, Olga Chub, Dmytro Karvatskyi, Danylo Kiz, Olexandr Konovalov, Volodymyr Kharchenko, Sofiia Matios, Oleksandr Miroshkin, Maryna Novozhylova, Veronika Shevchenko, Mariia Zaremba.
 [[Ukrainian version](https://ukrainian-carpentries.github.io/python-novice-gapminder/)]
 [[Issue tracker](https://github.com/ukrainian-carpentries/python-novice-gapminder/issues/new)]
