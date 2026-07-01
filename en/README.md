@@ -35,17 +35,17 @@ Translators: Olexandr Konovalov, Oleksandr Miroshkin, Iryna Raievska, Maryna Rai
 
 ### Work in progress
 
+- **Побудова графіків і програмування на Python (Plotting and Programming in Python)** (Episodes 1-18 fully translated and approved; overall 90% approved translations).
+Translators: Svitlana Braichenko, Olga Chub, Dmytro Karvatskyi, Danylo Kiz, Olexandr Konovalov, Volodymyr Kharchenko, Sofiia Matios, Oleksandr Miroshkin, Maryna Novozhylova, Veronika Shevchenko, Mariya Spatar, Mariia Zaremba.
+[[Ukrainian version](https://ukrainian-carpentries.github.io/python-novice-gapminder/)]
+[[Issue tracker](https://github.com/ukrainian-carpentries/python-novice-gapminder/issues/new)]
+[[English version](https://swcarpentry.github.io/python-novice-gapminder/)]
+
 - **Командний рядок Unix (The Unix Shell)** (All episodes are already translated and approved; overall 87% approved translations).
 Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr Miroshkin, Veronika Shevchenko.
 [[Ukrainian version](https://ukrainian-carpentries.github.io/shell-novice/)]
 [[Issue tracker](https://github.com/ukrainian-carpentries/shell-novice/issues/)]
 [[English version](https://swcarpentry.github.io/shell-novice/)]
-
-- **Побудова графіків і програмування на Python (Plotting and Programming in Python)** (Episodes 1-17 fully translated and approved; overall 84% approved translations).
-Translators: Svitlana Braichenko, Olga Chub, Dmytro Karvatskyi, Danylo Kiz, Olexandr Konovalov, Volodymyr Kharchenko, Sofiia Matios, Oleksandr Miroshkin, Maryna Novozhylova, Veronika Shevchenko, Mariya Spatar, Mariia Zaremba.
-[[Ukrainian version](https://ukrainian-carpentries.github.io/python-novice-gapminder/)]
-[[Issue tracker](https://github.com/ukrainian-carpentries/python-novice-gapminder/issues/new)]
-[[English version](https://swcarpentry.github.io/python-novice-gapminder/)]
 
 - **R для соціологів (R for Social Scientists)** (59% approved translations).
 Translators: Yurii Kleban, Olexandr Konovalov, Daria Stehnii, Bohdana Strelyuk.
