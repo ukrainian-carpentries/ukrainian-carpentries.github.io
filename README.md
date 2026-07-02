@@ -27,7 +27,7 @@
 [[повідомити про помилку](https://github.com/ukrainian-carpentries/git-novice/issues/new)]
 [[англійська версія](https://swcarpentry.github.io/git-novice/)]
 
-- **Побудова графіків і програмування на Python.**.
+- **Побудова графіків і програмування на Python.**
 Перекладачі: Світлана Брайченко, Марія Заремба, Дмитро Карвацький, Данило Кіз, Олександр Коновалов, Софія Матіос, Олександр Мірошкін, Марина Новожилова, Марія Спатар, Володимир Харченко, Ольга Чуб, Вероніка Шевченко.
 [[українська версія](https://ukrainian-carpentries.github.io/python-novice-gapminder/)]
 [[повідомити про помилку](https://github.com/ukrainian-carpentries/python-novice-gapminder/issues/new)]
