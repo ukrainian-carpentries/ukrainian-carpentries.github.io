@@ -27,6 +27,12 @@ Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr 
 [[Issue tracker](https://github.com/ukrainian-carpentries/git-novice/issues/)]
 [[English version](https://swcarpentry.github.io/git-novice/)]
 
+- **Побудова графіків і програмування на Python (Plotting and Programming in Python).**
+Translators: Svitlana Braichenko, Olga Chub, Dmytro Karvatskyi, Danylo Kiz, Olexandr Konovalov, Volodymyr Kharchenko, Sofiia Matios, Oleksandr Miroshkin, Maryna Novozhylova, Veronika Shevchenko, Mariya Spatar, Mariia Zaremba.
+[[Ukrainian version](https://ukrainian-carpentries.github.io/python-novice-gapminder/)]
+[[Issue tracker](https://github.com/ukrainian-carpentries/python-novice-gapminder/issues/new)]
+[[English version](https://swcarpentry.github.io/python-novice-gapminder/)]
+
 - **Програмування у системі компʼютерної алгебри GAP (Carpentries Incubator lesson "Programming with GAP").**
 Translators: Olexandr Konovalov, Oleksandr Miroshkin, Iryna Raievska, Maryna Raievska.
 [[Ukrainian version](https://ukrainian-carpentries.github.io/gap-lesson/)]
@@ -34,12 +40,6 @@ Translators: Olexandr Konovalov, Oleksandr Miroshkin, Iryna Raievska, Maryna Rai
 [[English version](https://carpentries-incubator.github.io/gap-lesson/)]
 
 ### Work in progress
-
-- **Побудова графіків і програмування на Python (Plotting and Programming in Python)** (Episodes 1-18 fully translated and approved; overall 90% approved translations).
-Translators: Svitlana Braichenko, Olga Chub, Dmytro Karvatskyi, Danylo Kiz, Olexandr Konovalov, Volodymyr Kharchenko, Sofiia Matios, Oleksandr Miroshkin, Maryna Novozhylova, Veronika Shevchenko, Mariya Spatar, Mariia Zaremba.
-[[Ukrainian version](https://ukrainian-carpentries.github.io/python-novice-gapminder/)]
-[[Issue tracker](https://github.com/ukrainian-carpentries/python-novice-gapminder/issues/new)]
-[[English version](https://swcarpentry.github.io/python-novice-gapminder/)]
 
 - **Командний рядок Unix (The Unix Shell)** (All episodes are already translated and approved; overall 87% approved translations).
 Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr Miroshkin, Veronika Shevchenko.
