@@ -41,7 +41,7 @@ Translators: Olexandr Konovalov, Oleksandr Miroshkin, Iryna Raievska, Maryna Rai
 
 ### Work in progress
 
-- **Командний рядок Unix (The Unix Shell)** (All episodes are already translated and approved; overall 87% approved translations).
+- **Командний рядок Unix (The Unix Shell)** (All episodes are already translated and approved; overall 93% approved translations).
 Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr Miroshkin, Veronika Shevchenko.
 [[Ukrainian version](https://ukrainian-carpentries.github.io/shell-novice/)]
 [[Issue tracker](https://github.com/ukrainian-carpentries/shell-novice/issues/)]
