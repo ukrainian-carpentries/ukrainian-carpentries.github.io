@@ -21,6 +21,12 @@ Please also see:
 
 ### Fully translated and approved lessons
 
+- **Командний рядок Unix (The Unix Shell).**
+Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr Miroshkin, Veronika Shevchenko.
+[[Ukrainian version](https://ukrainian-carpentries.github.io/shell-novice/)]
+[[Issue tracker](https://github.com/ukrainian-carpentries/shell-novice/issues/)]
+[[English version](https://swcarpentry.github.io/shell-novice/)]
+
 - **Контроль версій за допомогою Git (Version control with Git).**
 Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr Miroshkin, Veronika Shevchenko.
 [[Ukrainian version](https://ukrainian-carpentries.github.io/git-novice/)]
@@ -40,12 +46,6 @@ Translators: Olexandr Konovalov, Oleksandr Miroshkin, Iryna Raievska, Maryna Rai
 [[English version](https://carpentries-incubator.github.io/gap-lesson/)]
 
 ### Work in progress
-
-- **Командний рядок Unix (The Unix Shell)** (All episodes are already translated and approved; overall 93% approved translations).
-Translators: Olexandr Konovalov, Sofiia Matios, Volodymyr Kharchenko, Oleksandr Miroshkin, Veronika Shevchenko.
-[[Ukrainian version](https://ukrainian-carpentries.github.io/shell-novice/)]
-[[Issue tracker](https://github.com/ukrainian-carpentries/shell-novice/issues/)]
-[[English version](https://swcarpentry.github.io/shell-novice/)]
 
 - **R для соціологів (R for Social Scientists)** (59% approved translations).
 Translators: Yurii Kleban, Olexandr Konovalov, Daria Stehnii, Bohdana Strelyuk.
