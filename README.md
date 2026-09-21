@@ -59,6 +59,8 @@ The Carpentries надає інфраструктуру для переклад�
 
 ## Викладання
 
+- Незабаром: [Семінар The Carpentries](https://ukrainian-carpentries.github.io/2026-10-05-kyiv-imath-online/) (командний рядок Unix, контроль версій з Git та програмування у GAP) в Інституті математики НАН України (онлайн, 5-7 жовтня 2026 р.)
+
 - Вперше в Україні: [Семінар The Carpentries](https://ukrainian-carpentries.github.io/2026-01-20-dnipro-online/) (командний рядок Unix, контроль версій з Git та програмування у R) на [Зимовій школі із системного аналізу та штучного інтелекту](https://sau.nmu.org.ua/ua/school_analysis.intelligence/2026/winschool26.php) (Національний технічний університет "Дніпровська пoлiтехнікa", онлайн, 20-21 січня 2026 р.)
 
     - *Запис на YouTube*: День 1 (командний рядок Unix, контроль версій з Git): [[Частина 1](https://www.youtube.com/watch?v=8P3yRKr9BFA)], [[Частина_2](https://www.youtube.com/watch?v=mFdP751ndX0)], [[Частина_3](https://www.youtube.com/watch?v=VFluq0EX4oM)], [[Частина_4](https://www.youtube.com/watch?v=7KS6FggbIqI)]

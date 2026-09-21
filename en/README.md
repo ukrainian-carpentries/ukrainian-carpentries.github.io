@@ -59,6 +59,8 @@ The Carpentries provides translation infrastructure on the [Crowdin](https://cro
 
 ## Teaching
 
+- Soon: [The Carpentries Workshop](https://ukrainian-carpentries.github.io/2026-10-05-kyiv-imath-online/) (Unix shell, Git and GAP) in the Institute of Mathematics of NAS of Ukraine (online, 5-7 October 2026)
+
 - First time in Ukraine: [The Carpentries workshop](https://ukrainian-carpentries.github.io/2026-01-20-dnipro-online/) (Unix shell, Git and R) as a part of the Winter School in System Analysis and AI in Dnipro Polytechnic (online, 20-21 January 2026)
 
     - *YouTube recordings*: Day 1 (Unix shell, version control with Git): [[Part_1](https://www.youtube.com/watch?v=8P3yRKr9BFA)], [[Part_2](https://www.youtube.com/watch?v=mFdP751ndX0)], [[Part_3](https://www.youtube.com/watch?v=VFluq0EX4oM)], [[Part_4](https://www.youtube.com/watch?v=7KS6FggbIqI)]
